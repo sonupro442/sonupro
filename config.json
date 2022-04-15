@@ -3,8 +3,7 @@
 	"port": 52624,
 	"name": "afkbot1",
 	"auto-night-skip":"false",
-	"login-enabled":"false
-",
+	"login-enabled":"false",
 	"register-cmd":"/register 12345",
 	"login-cmd":"/login 12345"
 }
